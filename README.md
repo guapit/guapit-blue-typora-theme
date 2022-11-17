@@ -41,7 +41,7 @@ git clone https://gitee.com/guapit/guapit-typora-theme.git
 
 将下载好的 `theme` 目录的所有文件复制到 `Typora\themes`即可
 
-<img src="https://gitee.com/guapit_com/mt5-tutorial-pictures/raw/master/images/mt5/gp-20221117212323.png" alt="image-20221114210415816" style="zoom:50%;" />
+<img src="https://github.com/guapit/guapit-blue-typora-theme/blob/main/68747470733a2f2f67697465652e636f6d2f6775617069745f636f6d2f6d74352d7475746f7269616c2d70696374757265732f7261772f6d61737465722f696d616765732f6d74352f67702d32303232313131373.png" alt="image-20221114210415816" style="zoom:50%;" />
 
 ## 主题展示
 
