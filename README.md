@@ -45,7 +45,7 @@ git clone https://gitee.com/guapit/guapit-typora-theme.git
 
 ## 主题展示
 
-![](https://gitee.com/guapit_com/mt5-tutorial-pictures/raw/master/images/mt5/gp-20221117212552.png)
+![](https://github.com/guapit/guapit-blue-typora-theme/blob/main/gp-20221117211634.png)
 
 ## 代码效果
 
